@@ -1,2 +1,1 @@
-# Tic-Tac-Toe
-It is a two player game anyone can play when they get bore...
+# Shubham Projects
